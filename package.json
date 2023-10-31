@@ -1,0 +1,11 @@
+{
+  "name": "workflow-backend",
+  "version": "1.0.0",
+  "description": "dev",
+  "main": "src/server.js",
+  "author": "truongtrieu",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
